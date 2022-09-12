@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Altaf’s Blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "article\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nAltaf\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This is the personal blog of Altaf Abdul Gaffar"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/ESGs/index.html",
+    "href": "posts/ESGs/index.html",
+    "title": "ESG – At the crossroads",
+    "section": "",
+    "text": "Footnotes\n\n\nIngraining sustainability in the next era of ESG investing – Deloitte Insights https://bit.ly/36Y96tP↩︎\nWho Cares Wins – Connecting Financial Markets to a Changing World, a joint initiative of Financial Institutions under the auspices of the UN Secretary General https://www.unepfi.org/fileadmin/events/2004/stocks/who_cares_wins_global_compact_2004.pdf↩︎\nIslamic Development Bank Issues Largest Sustainability Sukuk Ever https://www.isdb.org/news/islamic-development-bank-issues-largest-sustainability-sukuk-ever↩︎\nBlowing the whistle on ESG – Financial Times Podcast https://www.ft.com/content/c313d28b-97e0-4398-8b1e-b71e2bb8d6fa↩︎\nSEC investigating Goldman Sachs for ESG claims - Financial Times June 11, 2022 https://www.ft.com/content/5812ab1f-c2d4-4681-a6be-45f0befd92df↩︎\nThe Secret Diary of a ‘Sustainable Investor’ - https://medium.com/\\\\\\@sosofancy/the-secret-diary-of-a-sustainable-investor-part-1-70b6987fa139↩︎\nHow ESG investing came to a reckoning – Financial Times June 6, 2022 https://www.ft.com/content/5ec1dfcf-eea3-42af-aea2-19d739ef8a55↩︎\nAggregate Confusion: The Divergence of ESG Ratings – Florian Berg, Julian F Kölbel and Roberto Rigobon https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3438533↩︎\nSEC investigating Goldman Sachs for ESG claims, Financial Times June 11, 2022 https://www.ft.com/content/5812ab1f-c2d4-4681-a6be-45f0befd92df↩︎"
   }
 ]
