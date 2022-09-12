@@ -7,7 +7,11 @@ categories: [article]
 
 # ESG -- At the crossroads
 
-**Environmental, Social, and Corporate Governance (ESG)** are a mainstay in the financial, banking, and investment world today. With an estimated **US\$ 39 trillion of financial assets** globally under it in 2020 and is considered as one of the fastest-growing segments of the asset management industry, with expectations that it would exceed the value of non-ESG assets by 2024.
+**Environmental, Social, and Corporate Governance (ESG)** are a mainstay in the financial, banking, and investment world today.
+
+![](ESGpic.jpg){width="291"}
+
+With an estimated **US\$ 39 trillion of financial assets** globally under it in 2020 and is considered as one of the fastest-growing segments of the asset management industry, with expectations that it would exceed the value of non-ESG assets by 2024.
 
 The origins of the term ESG can be traced back to 2004[^1], when a UN report[^2] called for *"better inclusion of environmental, social and corporate governance (ESG) in investment decisions"*, this happened against the backdrop of many corporate scandals of that era, including Enron, WorldCom, and the Exxon Valdez oil spill.
 
@@ -29,7 +33,7 @@ However, in the recent past the world of ESGs has been rocked by several scandal
 
 Others working in the investment industry, including a then chief investment officer for sustainable investing at BlackRock, have raised many concerns about how ESG frameworks are employed in the corporate world[^6], especially as a method to smooth over the actual environmental and social impacts of their investments to make them more palatable to investors, i.e., *"marketing hype"*.
 
-[^6]: The Secret Diary of a 'Sustainable Investor' - <https://medium.com/\\\@sosofancy/the-secret-diary-of-a-sustainable-investor-part-1-70b6987fa139>
+[^6]: The Secret Diary of a 'Sustainable Investor' - [https://medium.com/\\\\\\\@sosofancy/the-secret-diary-of-a-sustainable-investor-part-1-70b6987fa139](https://medium.com/\\\@sosofancy/the-secret-diary-of-a-sustainable-investor-part-1-70b6987fa139){.uri}
 
 Furthermore, the war in Ukraine, has raised the question as to what exactly should count as ESG investments? Many defense and hydrocarbon investments previously frowned upon under ESGs, are now being looked upon more favorably, as they viewed as essential to both national and energy security[^7]. In the European region a strong proponent of ESG, there has been an increasing focus and encouragement towards defense and hydrocarbon investments. Similarly, rising energy prices have resulted in ESG champion asset managers like Blackrock and Vanguard, to also realign their investment focus on fossil fuel related industries again.
 
@@ -40,6 +44,5 @@ Another challenge facing ESGs is the lack of a universally acceptable, reliable,
 [^8]: Aggregate Confusion: The Divergence of ESG Ratings -- Florian Berg, Julian F Kölbel and Roberto Rigobon <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3438533>
 
 [^9]: SEC investigating Goldman Sachs for ESG claims, Financial Times June 11, 2022 <https://www.ft.com/content/5812ab1f-c2d4-4681-a6be-45f0befd92df>
-
 
 While ESGs continue to play an important role in steering the world towards sustainable development, and addressing climate change, these recent developments and challenges mentioned here have called in to question the credibility of the ESGs. Therefore, urgent action is needed from all ESG stakeholders restore their fast-eroding credibility, as they are still one of the best mechanisms available to us to address these global challenges.
