@@ -1,0 +1,24 @@
+---
+title: "Towards a Data Strategy"
+author: "Altaf"
+date: "2022-09-12"
+categories: [article, data, strategy]
+---
+
+# Towards a Data Strategy for Development Finance Organizations
+
+Today we in the midst, of what can be described as a *"Data Revolution"*, that is profoundly impacting every aspect of our life including the way we work.
+
+![](DataStrategyPic.png)
+
+This revolution has been driven by the availability of large of amounts of data, which is easily accessible due to the Internet, and the new generation powerful computing resources and data tools, giving us the ability to not just to analyze the large data sets but also to derive decisions and make projections on future. This has enabled to not only improve existing business models but also open the door for new business models.
+
+During the current Covid pandemic, there was an inundation of high frequency or real time data on the progress of the pandemic such as case counts, hospitalizations, deaths, vaccination rates, the mobility of people, impact of lockdowns on business, etc., enabling decision makers to make more dynamic decisions on how to tackle the pandemic, without which the effects of the pandemic would have been even more severe. At the same time a new business model based on around Mobile Phone App technologies that leverage Artificial Intelligence (AI) or Machine Learning (ML), to utilize data to make automated decisions and predictions has emerged, which in turn has led to an explosion of online businesses, that are now challenging the traditional high-street businesses.
+
+In the field of Development Financing, having access to data has always been a critical factor, both when developing and designing the projects and during their implementation. Traditionally this data was sourced from official statistics published periodically by Governments and International Agencies, however this data was mostly stale by the time it was consumed or did not cover certain areas. However, the availability of real-time high-frequency data from non-traditional sources, is now changing this and has led to what is known as the *"Third Wave"* in economics, which uses this data to build predictive models and helps policy makers make decisions in real-time.
+
+By coupling the availability of these new high frequency data sources, with the higher levels of engagement now possible with stakeholders through Social Networking platforms, would provide the Development Finance Organizations (DFO) with new opportunities for better stakeholder engagement, project design and implementation in the future. Furthermore, by leveraging this and the data generated from the DFO's internal systems, together with the use of AI/ML tools would enable further optimization and streamlining of business and decision-making processes within the DFO, resulting in even more cost reductions and better efficiencies, which in turn could then be passed on to the member countries in the form of reduced borrowing costs.
+
+Therefore, it is vital that the DFOs, give prominence to the development of a Data Strategy as part of their Strategy development exercises, thereby helping to establish themselves, not only as a data-driven organization but positioning themselves to lead by example, to help countries they work with to achieve their own Data Revolutions. 
+
+For the DFOs Data Strategy to succeed, it is vital that the staff who are the key part of the strategy are *"data-empowered"*, by enhancing their data skills, thus enabling them to use data and the related tools, more efficiently in their day-to-day work. To achieve this, not only are Data Analysis tools and systems such as, Dashboards, Analytical and Visualization tools essential and vital, but they also need to be supported with a strong institutional data governance and data access policy frameworks.
