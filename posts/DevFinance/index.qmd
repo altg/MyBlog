@@ -1,0 +1,30 @@
+---
+title: "Incentivizing Development Finance"
+author: "Altaf"
+date: "2021-12-20"
+categories: [article, development]
+---
+
+# Having *"Skin-in-the-game"* -- Incentivizing Development Finance
+
+The achievement of the SDGs under Agenda 2020 will entail very large investments estimated in the upwards of **US\$ 4 trillion over the next 10 years** in the least developed countries[^1], expected to be financed from the both the Public and Private Sectors, including Bi-laterals and Multi-laterals (MDBs).
+
+[^1]: "SDG Costing & Financing for Low-Income Developing Countries" - UN Sustainable Development Solutions Network (SDSN) <https://resources.unsdsn.org/sdg-costing-financing-for-low-income-developing-countries>
+
+![](DevFinance.jpg)
+
+Most of these investments will be in the form of projects in developing countries. The delivery of these development projects in a timely, cost-effective and efficient manner is therefore of critical importance, to achieve the objectives of the SDGs.
+
+However, evidence shows that in many cases development projects suffer from delays in implementation, cost-overruns, and the failure to successfully deliver development their objectives, in-spite of the large investments being made in them[^2]. Now the question is, who pays for these delays, cost overruns and failures?
+
+[^2]: "Big project, big delay?" - <https://eandt.theiet.org/content/articles/2019/09/big-project-big-delay/>
+
+From a risk perspective the financiers (including MDBs), who are sophisticated investors, typically ring-fence their investments very well, by using mechanisms such as sovereign guarantees, off-take agreements etc., reducing their losses to a great extent. Similarly, officials in-charge of the project, are unlikely in most cases, to be held responsible for the failure of a project to deliver its objectives, unless it can be proved that they were willfully negligent, committed fraud or some type of illegal act. Ultimately, the ones bearing most of the cost of due to the project failures are the very people who expected to benefit from it, who may still be expected to pick-up the bill. In short there is no *"Skin-in-the-game"* here for the most players involved, except for the end beneficiaries.
+
+Herein lies the dilemma of the development finance, those who are implementing it and are responsible for its delivery have very little to lose even if the project fails, regardless of the outcome. Hence if we are to answer the question why projects fail, we need to start by looking at the incentives in place for the different players associated with the project.
+
+For financiers like the MDBs, the typical KPIs tend to focus on measure Approvals, Disbursements, Number of field visits etc., while they measure operational efficiency, they fail to take in to account the achievement of the final development outcomes of the project. In certain circumstances, they can even become *"perverse incentives"*, encouraging the countries to take on projects that are unnecessary from a development perspective.
+
+How do we address this challenge of creating the right set of incentives for delivery of development outcomes? In the private sector which implements its projects, with its own money, the typical project manager is given a great deal of empowerment to make decisions regarding the management of the project, however it comes with the caveat that he would be held responsible for its final delivery, i.e. he can be rewarded or fired easily based on the performance of the project. This is contrast to the public sector and MDBs where job-security and reward is assured no matter what the outcome of the project.
+
+Therefore, a new incentive structure with true *"Skin-in-the-game"* for the different players involved, tied to the final outcomes of the projects should be developed. For example, repayment of the project financing, should be linked to the project delivering its outcome, thereby incentivizing the financiers to pay more attention to project design, implementation and delivery. Officials in-charge of the project both at the Bank and in the field should have their rewards linked to the successful delivery of the final outcomes of the project and not just to implementation efficiency related KPIs. In addition, the final project beneficiaries should also have a more active ownership role, to play not only in the design and conception stage of the project but also during its implementation. Having such *"Skin-in-the-game"* is essential if the objectives of Agenda 2030 are to be realized.
