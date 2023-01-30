@@ -5,12 +5,25 @@ project:
 website:
   title: "Altaf's Blog"
   navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Resume
+        href: resume.qmd
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      
+
+  search: 
+    location: navbar
+    type: overlay  
+
 format:
   html:
     theme: spacelab
