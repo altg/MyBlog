@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/ESGs/index.html",
+      "/posts/DataStrategy/index.html",
+      "/posts/DevFinance/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/ESGs/index.html",
+      "/posts/DataStrategy/index.html",
+      "/posts/DevFinance/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
