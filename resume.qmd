@@ -1,5 +1,7 @@
-<iframe 
-  width="800" 
-  height="800" 
-  src="images/Menghani_Deepsha_Resume.pdf">
-</iframe>
+---
+title: Resume
+---
+
+```{=html}
+<iframe width="800" height="800" src="resume/CV Altaf Latest.pdf" title="CV Altaf"></iframe>
+```
